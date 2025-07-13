@@ -10,6 +10,7 @@ A comprehensive **E-commerce Dashboard** built with [Streamlit](https://streamli
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Deployment](#deployment)
+- [Contact](#contact)
 
 ## Overview
 The E-commerce Dashboard is designed to help business analysts and e-commerce managers explore and analyze sales data. It generates a synthetic dataset of e-commerce transactions and provides interactive visualizations, filters, and data export options. The dashboard includes key performance indicators (KPIs), revenue trends, category performance, and raw data exploration, all accessible through a user-friendly interface.
