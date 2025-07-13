@@ -90,3 +90,7 @@ The dataset uses realistic distributions (e.g., uniform for prices, random for d
 
 ## Deployment
 This dashboard is deployed using [Streamlit Community Cloud](https://streamlit.io/cloud). Access the live app at [E-Commerce Dashboard](https://e-commerce-dashboard-avaz-asgarov.streamlit.app/). The deployment is managed directly from this GitHub repository, requiring only the Python script (`e_commerce_dashboard.py`) and `requirements.txt`.
+
+## Contact
+
+For any questions or suggestions, please open an issue in this repository or connect with me on LinkedIn: **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**.
